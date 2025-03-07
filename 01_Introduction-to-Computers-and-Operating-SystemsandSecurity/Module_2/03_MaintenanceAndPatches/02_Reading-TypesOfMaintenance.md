@@ -78,7 +78,7 @@
 
 ၎င်းတွင် လည်ပတ်မှုစနစ်အသစ် ထုတ်ဝေမှု သို့မဟုတ် အခြားထင်ရှားသော နည်းပညာဆိုင်ရာ ပြောင်းလဲမှုများကဲ့သို့ အပြောင်းအလဲအသစ်များနှင့် လိုက်လျောညီထွေဖြစ်စေရန် သင့်ဆော့ဖ်ဝဲလ်ကို ပြောင်းလဲခြင်း ပါဝင်သည်။
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/PXu-CwfaTl6ZrLhC-bX9xQ_83b3184c775c44f895fedb2191ed29e1_image.png?expiry=1740355200000&hmac=JjD6MHbnaRrCuN8U7FWYVkTuZILyYCZZkym4PU3Ve7I" width="550" height="auto">
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/PXu-CwfaTl6ZrLhC-bX9xQ_83b3184c775c44f895fedb2191ed29e1_image.png?expiry=1740355200000&hmac=JjD6MHbnaRrCuN8U7FWYVkTuZILyYCZZkym4PU3Ve7I" width="550" height="auto">
 
 ဒါဆို ဘယ်အချိန်မှာ ထိန်းသိမ်းမှု ပြုလုပ်ဖို့ သင့်လျော်တဲ့ အချိန်လဲ။
 

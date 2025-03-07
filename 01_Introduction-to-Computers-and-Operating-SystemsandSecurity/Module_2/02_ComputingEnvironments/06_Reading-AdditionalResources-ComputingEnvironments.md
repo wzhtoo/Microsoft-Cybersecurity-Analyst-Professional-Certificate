@@ -17,7 +17,7 @@
 ဤသင်ခန်းစာသည် ရိုးရာနှင့် ကလောက်ဒ် ကွန်ပျူတာအကြား ကွာခြားချက်ကို အာရုံစိုက်ထားသော်လည်း၊ ကလောက်ဒ် ကွန်ပျူတာကိုယ်တိုင်က အမှန်တကယ်တွင် မတူညီသော အကောင်အထည်ဖော်မှုများ ရှိသည်။
 
 ဤ Microsoft အရင်းအမြစ်သည် ကလောက်ဒ် ကွန်ပျူတာ အမျိုးအစားများစွာ၏ အကျဉ်းချုပ်ကို ပေးထားပြီး၊ တစ်ခုစီတိုင်း၏ အားသာချက်များနှင့်အတူ။  
-[What are public, private, and hybrid clouds?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-are-private-public-hybrid-clouds/#overview)
+[What are public, private, and hybrid Clouds?](https://azure.microsoft.com/en-us/resources/Cloud-computing-dictionary/what-are-private-public-hybrid-Clouds/#overview)
 
 သင်သည် ဂိတ်ဝေးများကို ကာကွယ်ရန်နှင့် ဖြစ်နိုင်ချေရှိသော တိုက်ခိုက်သူများကို ရှာဖွေတားဆီးရန် အဆုံးသတ်အချက်များကို စောင့်ကြည့်ရန် အထွေထွေ လုံခြုံရေး အစီအမံများအကြောင်း လေ့လာခဲ့ပြီးဖြစ်သော်လည်း၊ ၎င်းကို အောင်မြင်ရန် အသုံးပြုသော တိကျသော ကိရိယာများနှင့် ရင်းနှီးမှု မရှိသေးပေ။
 

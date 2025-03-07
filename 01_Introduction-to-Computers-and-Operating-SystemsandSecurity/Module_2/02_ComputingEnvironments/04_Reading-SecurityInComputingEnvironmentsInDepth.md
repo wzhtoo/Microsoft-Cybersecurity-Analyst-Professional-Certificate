@@ -48,7 +48,7 @@
 
 ၎င်းသည် ကွန်ရက်၏ အတွင်းပိုင်းနှင့် အပြင်ပိုင်းအကြား ရှင်းလင်းသော ခွဲခြားမှုတစ်ခု ပြုလုပ်ရန် ပိုမိုခက်ခဲသည်ဟု ဆိုလိုသည်။
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hTLp12M9RC2WTYmeP9yazQ_c4e50f78e0dc4884a2f27999e206abe1_op_vs_cloud_firewall.png?expiry=1740355200000&hmac=NGd2RC1vkfQL6X2pgSpKuNH7oE6KVQLtCHVxWu8EIAs"  width="550" height="auto">
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/hTLp12M9RC2WTYmeP9yazQ_c4e50f78e0dc4884a2f27999e206abe1_op_vs_Cloud_firewall.png?expiry=1740355200000&hmac=NGd2RC1vkfQL6X2pgSpKuNH7oE6KVQLtCHVxWu8EIAs"  width="550" height="auto">
 
 ## ဝင်ရောက်မှုပြီးနောက် ပျက်စီးမှုကို ကန့်သတ်ရန် ခွဲခြားထားခြင်း
 
@@ -87,7 +87,7 @@ JEA သည် သင်ထိုနေရာတွင် ရှိနေစဉ�
 
 အကယ်၍ ၎င်းတွင် ဆိုင်၏ သော့များ ပါဝင်ပါက၊ ထိုသော့များကို လုပ်ငန်းစဉ်ပြီးဆုံးချိန်တွင် ပြန်ပေးရမည်ဖြစ်ပြီး၊ ဘေးကင်း သို့မဟုတ် ငွေသေတ္တာကို ဖွင့်နိုင်မည့် သော့တစ်ချောင်းကို မပါဝင်စေရ။
 
-<img src = "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Um3PZ2PlTBe4xOWtP-f5dw_fa7b1a2c4fe7463b973f0c3fb867a3e1_image.png?expiry=1740355200000&hmac=cvQVj3xmlz_0nj4PF2riBGGMhSWD80h3Zz0z6GDhUhU" width="550" height="auto">
+<img src = "https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/Um3PZ2PlTBe4xOWtP-f5dw_fa7b1a2c4fe7463b973f0c3fb867a3e1_image.png?expiry=1740355200000&hmac=cvQVj3xmlz_0nj4PF2riBGGMhSWD80h3Zz0z6GDhUhU" width="550" height="auto">
 
 ## ပြန်လည်ရယူခြင်း (Recovery)
 

@@ -9,10 +9,10 @@
 1.  Question 1
     Which of these computing environments is most likely to have the most hardware?
 
-- Commercial cloud-based computing
+- Commercial Cloud-based computing
 - Personal computing
 - **Traditional commercial computing**
-  - Correct! A commercial enterprise is more likely to need more hardware than a private individual, and cloud-based businesses will be more reliant on cloud-based services.
+  - Correct! A commercial enterprise is more likely to need more hardware than a private individual, and Cloud-based businesses will be more reliant on Cloud-based services.
 
 2. Question 2
    Which of the following are examples of endpoints? Select all that apply.

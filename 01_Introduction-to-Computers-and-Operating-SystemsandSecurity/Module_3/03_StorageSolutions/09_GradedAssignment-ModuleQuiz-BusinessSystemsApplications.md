@@ -53,7 +53,7 @@
 - An email server service with integrated security and filtering features.
 - **A family of software packages that can be tailored for your specific needs.**
   - Correct. Microsoft 365 is a collection of software that can be customized for the unique needs of personal users, businesses, and educational institutions
-- A cloud hosting service that offers several options for storage space.
+- A Cloud hosting service that offers several options for storage space.
 
 7. Question 7
    True or False: Azure Blob Storage is suitable for storing streamed data.

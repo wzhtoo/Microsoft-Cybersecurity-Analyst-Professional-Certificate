@@ -1,6 +1,6 @@
-# Traditional versus cloud computing environments
+# Traditional versus Cloud computing environments
 
-[Traditional versus cloud computing environments 🔗](https://www.coursera.org/learn/introduction-to-computers-and-operating-systems-and-security/supplement/KsRqv/traditional-versus-cloud-computing-environments)
+[Traditional versus Cloud computing environments 🔗](https://www.coursera.org/learn/introduction-to-computers-and-operating-systems-and-security/supplement/KsRqv/traditional-versus-Cloud-computing-environments)
 
 # ရိုးရာ နှင့် ကလောက်ဒ် ကွန်ပျူတာ ပတ်ဝန်းကျင်များ
 
@@ -18,7 +18,7 @@
 
 အဆောက်အဦအတွင်း ကွန်ပျူတာဆိုသည်မှာ အရာအားလုံးကို နေရာတွင် လက်ခံထားသော ရိုးရာ ချဉ်းကပ်နည်းကို ရည်ညွှန်းသည်။
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/vr9exZlASoyVS5OEu35ZFA_69c7223e92a0405aaf8d1a722b6340e1_on-premises.png?expiry=1740355200000&hmac=d5sXD9Z8-BYr-DzSV3DYBsuIUxcm5_CaDSLdifv20pM" width="450" height="auto">
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/vr9exZlASoyVS5OEu35ZFA_69c7223e92a0405aaf8d1a722b6340e1_on-premises.png?expiry=1740355200000&hmac=d5sXD9Z8-BYr-DzSV3DYBsuIUxcm5_CaDSLdifv20pM" width="450" height="auto">
 
 ၎င်းတွင် ဟာ့ဒ်ဝဲလ်၊ လည်ပတ်မှုစနစ်များ၊ အပ္ပလီကေးရှင်းများ၊ နှင့် ဆက်စပ်အခြေခံအဆောက်အအုံအားလုံး ပါဝင်သည်။
 
@@ -32,7 +32,7 @@
 
 ကလောက်ဒ် ကွန်ပျူတာဆိုသည်မှာ ဒေတာ၊ ဆော့ဖ်ဝဲလ် ပလပ်ဖောင်းများ၊ အပ္ပလီကေးရှင်းများ၊ လည်ပတ်မှုစနစ်များ၊ နှင့် ဆက်စပ်အခြေခံအဆောက်အအုံအားလုံးကို အွန်လိုင်းတွင် လက်ခံထားသော ပိုမိုသစ်လွင်သော အလေ့အကျင့်ကို ရည်ညွှန်းသည်။
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/0wceZLpuRHqci_QepqxDkg_61091f0c11534cd59f7d71e86d7dc4e1_image.png?expiry=1740355200000&hmac=7FRw5GRg4czDBDJCfL1amXsFh14bLJTW-ZQCUnmAfi8" width="450" height="auto">
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/0wceZLpuRHqci_QepqxDkg_61091f0c11534cd59f7d71e86d7dc4e1_image.png?expiry=1740355200000&hmac=7FRw5GRg4czDBDJCfL1amXsFh14bLJTW-ZQCUnmAfi8" width="450" height="auto">
 
 လုပ်ငန်းတစ်ခုသည် အိမ်ဆောက်ရာတွင် အသုံးပြုသော လက်သမားတစ်ဦးစီ၏ ဝန်ဆောင်မှုများအတွက် ကန်ထရိုက်တာတစ်ဦးက ပေးချေသည့်နည်းတူ၊ ၎င်းတို့လိုအပ်သည်များအတွက် ပေးချေမည်ဖြစ်သည်။
 
@@ -102,7 +102,7 @@
 
 ### အဆောက်အဦအတွင်း နှင့် ကလောက်ဒ် ကွန်ပျူတာ၏ အားသာချက်များနှင့် အားနည်းချက်များကို ဖော်ပြထားသော ဇယား
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/1ZsCzFR-Somxd-e4rWhHkA_825afee4a2334dbdb50c8fbc529e0ae1_op_vs_cloud.png?expiry=1740355200000&hmac=LdeR6jFgovU3sAODpaxKmGBaxkPrcjzwhFcqFAfCKBk" width="450" height="auto">
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/1ZsCzFR-Somxd-e4rWhHkA_825afee4a2334dbdb50c8fbc529e0ae1_op_vs_Cloud.png?expiry=1740355200000&hmac=LdeR6jFgovU3sAODpaxKmGBaxkPrcjzwhFcqFAfCKBk" width="450" height="auto">
 
 ## နိဂုံး
 

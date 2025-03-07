@@ -26,7 +26,7 @@
 2021 ခုနှစ် **နိုဝင်ဘာလအတွင်း** Cisco ၏ **သုံးစွဲမှုများကို ခြောက်လှန်းစစ်ဆေးခြင်း** ဖြင့်  
 **လက်ရှိ အလုပ်လုပ်နေသော Cybercrime များကို ပိုမိုမြင်သာစေရန်** အောက်ပါ **ဇယား** တွင် ဖော်ပြထားသည်။
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/-yBhSzcFThWfAEO8DJy2iA_8848159d1a8749a88b04f792ef4f4ee1_A-pie-chart-detailing-the-types-of-attacks-by-percentage-across-one-month..png?expiry=1740268800000&hmac=QMPgf4sQ1qtutUuK8NkLav2oL2zm0f4_EgvOBN3zyPE)
+![](https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/-yBhSzcFThWfAEO8DJy2iA_8848159d1a8749a88b04f792ef4f4ee1_A-pie-chart-detailing-the-types-of-attacks-by-percentage-across-one-month..png?expiry=1740268800000&hmac=QMPgf4sQ1qtutUuK8NkLav2oL2zm0f4_EgvOBN3zyPE)
 
 ## **Common Cyber Attack Types**
 
@@ -81,7 +81,7 @@ Trojan တိုက်ခိုက်မှုသည် **အသုံးပြ�
 အောက်ပါတွင် **မလိုလားသူမှ ပေးပို့သော Email တစ်ခု** ကို **မည်သို့ ခွဲခြားမည်နည်း** ဆိုသည်ကို ဖော်ပြထားသည်။  
 ထို့အပြင် **Email Scam များကို အသိပညာ ရရှိစေရန် သတိထားရမည့် အချက်များ** ကိုပါ ဖော်ပြထားမည်။
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qPA4VffsSXmpRwggNzBWBA_5b64d399cbc04cd29a0593d95c72cee1_image.png?expiry=1740268800000&hmac=GKiny5ia7fkTXfo4iyy41s2NZwimW1hl1PaA26VdKIs)
+![](https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/qPA4VffsSXmpRwggNzBWBA_5b64d399cbc04cd29a0593d95c72cee1_image.png?expiry=1740268800000&hmac=GKiny5ia7fkTXfo4iyy41s2NZwimW1hl1PaA26VdKIs)
 
 ## **Ransomware Attacks**
 
@@ -132,7 +132,7 @@ Botnet Attack သည် **ဇယားထဲတွင် 13%** ကိုဖေ�
 
 အောက်ပါ ပုံမှာ **Botnet Attack** သည် **အတိုင်းအတာမရှိသော အင်အားဖြင့် တိုက်ခိုက်ပုံ** ကို ဖော်ပြသည်။
 
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/ugjE9IdgQZKk4AJXEOnClQ_cb65ff880ee34971bcbb71f2ab7b26e1_image.png?expiry=1740268800000&hmac=wAeWzzRrU1GDoI0vYlM4W5MCtpWNDpB4akXDS1iHAzE)
+![](https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/ugjE9IdgQZKk4AJXEOnClQ_cb65ff880ee34971bcbb71f2ab7b26e1_image.png?expiry=1740268800000&hmac=wAeWzzRrU1GDoI0vYlM4W5MCtpWNDpB4akXDS1iHAzE)
 
 ## **Botnet Attacks (ဆက်လက်ရှင်းလင်းခြင်း)**
 

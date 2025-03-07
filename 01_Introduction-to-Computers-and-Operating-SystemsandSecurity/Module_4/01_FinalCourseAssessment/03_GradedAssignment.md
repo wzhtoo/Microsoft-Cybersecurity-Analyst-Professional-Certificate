@@ -7,7 +7,7 @@
 [Assignment 🔗](https://www.coursera.org/learn/introduction-to-computers-and-operating-systems-and-security/assignment-submission/ty7CL/course-quiz-introduction-to-computers-and-operating-systems-and-security/attempt)
 
 1.  Question 1
-    True or False: Identity and access management (IAM) is a cloud-based initiative to protect against hackers.
+    True or False: Identity and access management (IAM) is a Cloud-based initiative to protect against hackers.
 
 - **True**
 - False
@@ -36,11 +36,11 @@
 - False
 
 5. Question 5
-   Commercial on-premises computing will require more **\_\_\_\_** than personal or commercial cloud-based environments.
+   Commercial on-premises computing will require more **\_\_\_\_** than personal or commercial Cloud-based environments.
 
 - Users
 - Hardware
-  - Correct. This environment is typically larger than one for personal use and requires on-premises hardware, unlike cloud computing.
+  - Correct. This environment is typically larger than one for personal use and requires on-premises hardware, unlike Cloud computing.
 - Software
 
 6. Question 6
@@ -170,11 +170,11 @@
 - A series of predetermined steps a computer uses to achieve a given task.
 
 22. Question 22
-    Which of the following email clients uses Google Drive to provide additional cloud storage?
+    Which of the following email clients uses Google Drive to provide additional Cloud storage?
 
 - Outlook
 - **Gmail**
-  - Correct. Gmail is associated with Google, so we will use this service for cloud storage.
+  - Correct. Gmail is associated with Google, so we will use this service for Cloud storage.
 - Thunderbird
 
 23. Question 23

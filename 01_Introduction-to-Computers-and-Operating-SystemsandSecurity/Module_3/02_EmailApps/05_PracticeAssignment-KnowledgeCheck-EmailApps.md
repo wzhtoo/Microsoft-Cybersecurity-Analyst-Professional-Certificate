@@ -30,7 +30,7 @@
 - A database
 - **An email server**
   - Correct. A series of email servers are responsible for sending and receiving emails.
-- The cloud
+- The Cloud
 
 4. Question 4
    Which of the following are acronyms for email-related protocols? Select all that apply.

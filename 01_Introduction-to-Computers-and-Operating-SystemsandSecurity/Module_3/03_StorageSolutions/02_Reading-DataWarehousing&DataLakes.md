@@ -19,7 +19,7 @@
 - **ခွဲခြမ်းစိတ်ဖြာမှု** - အချို့သော လုပ်ဆောင်မှုတွေ လုပ်ဆောင်ခြင်းရဲ့ ရလဒ်တွေကို အကဲဖြတ်ဖို့။
 - **အစီရင်ခံခြင်း** - သတ်မှတ်ထားတဲ့ ကာလတစ်ခုအတွင်း အလုံးစုံ စွမ်းဆောင်ရည်အကြောင်း ခိုင်မာတဲ့ ထိုးထွင်းသိမြင်မှုတွေ စုဆောင်းဖို့။
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5GUVjgsMSQesYXfnCLe7sg_819039865b024fac8c9c6583d79c6ce1_data_lake.png?expiry=1740441600000&hmac=Gtrbk2CEpBuXR9uFR7LRHWoEgFAyUa12xGmeIUYK0UA">\_
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/5GUVjgsMSQesYXfnCLe7sg_819039865b024fac8c9c6583d79c6ce1_data_lake.png?expiry=1740441600000&hmac=Gtrbk2CEpBuXR9uFR7LRHWoEgFAyUa12xGmeIUYK0UA">\_
 
 ### Data Lake Benefits and Challenges ဒေတာ လိတ်ခ် အကျိုးကျေးဇူးများနှင့် စိန်ခေါ်မှုများ
 
@@ -48,7 +48,7 @@ Azure မှာ စီးပွားရေးလုပ်ငန်းတွေ 
 
 အခု သင်ဟာ ဒေတာ လိတ်ခ်ဆိုတာ ဘာလဲဆိုတာကို ခိုင်မာစွာ နားလည်ပြီးပြီဆိုတော့၊ ဒေတာ ဝဲဟောက်စ်ဆိုတာ ဘာလဲဆိုတာကို စူးစမ်းကြည့်ကြပါစို့။ ဒေတာ ဝဲဟောက်စ်ဟာ ဒေတာ လိတ်ခ်နဲ့ ဆင်တူပါတယ်။ ဒါပေမယ့် အဲဒီမှာ တွေ့ရတဲ့ သတင်းအချက်အလက်တွေကို လုပ်ဆောင်ပြီး သန့်စင်ထားပြီးသားမို့၊ လွယ်ကူစွာ လက်ခံနိုင်ပါတယ်။ ဒါကို အောင်မြင်ဖို့၊ လိတ်ခ်က ဒေတာကို ထုတ်ယူ၊ ဖော်မတ်ချ၊ အတည်ပြု၊ အနှစ်ချုပ်၊ နဲ့ အခြားနည်းလမ်းတွေနဲ့ လုပ်ဆောင်ပြီး ဒေတာ ဝဲဟောက်စ်မှာ သိမ်းဆည်းပါတယ်။ ဒေတာဟာ ဝဲဟောက်စ်ထဲ ရောက်သွားတဲ့အခါ၊ ဒေတာကနေ လုပ်ဆောင်နိုင်တဲ့ ဉာဏ်ရည်ကို ရယူနိုင်ပါတယ်။
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/P6d4Ax4-SeGsqNXl6pK5Bg_44caa25ac20a494c870e07c7d1478ee1_image.png?expiry=1740441600000&hmac=jEj90DCfNRwGSOt3dBUaG7No8WtdO6098ZOX1jMf-n0">
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/P6d4Ax4-SeGsqNXl6pK5Bg_44caa25ac20a494c870e07c7d1478ee1_image.png?expiry=1740441600000&hmac=jEj90DCfNRwGSOt3dBUaG7No8WtdO6098ZOX1jMf-n0">
 
 ဒေတာ ဝဲဟောက်စ်မှာ သိမ်းဆည်းနိုင်တဲ့ အခြားဒေတာတွေက သမိုင်းဝင် လည်ပတ်မှု ဒေတာပါ။ ဒါကို လက်ရှိ ငွေပေးငွေယူတွေကနေ အတိတ်က တွေကို ခွဲထုတ်ဖို့ လုပ်ဆောင်ပါတယ်။
 

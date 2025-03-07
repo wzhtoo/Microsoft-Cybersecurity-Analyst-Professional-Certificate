@@ -34,7 +34,7 @@
    True or False: Creating daily backups should help secure your data.
 
 - **True**
-  - That's correct! Creating daily backups means there are copies of your data in the cloud, which is beneficial in the event of issues with on-premises storage.
+  - That's correct! Creating daily backups means there are copies of your data in the Cloud, which is beneficial in the event of issues with on-premises storage.
 - False
 
 5. Question 5
@@ -48,14 +48,14 @@
    Cloud computing is considered more \***\*\_\_\_\_\*\*** than traditional commercial computing.
 
 - **scalable**
-  - Correct. Because you can pay for what you need, when you need it, cloud computing is considered a more flexible model than the traditional on-premises approach.
+  - Correct. Because you can pay for what you need, when you need it, Cloud computing is considered a more flexible model than the traditional on-premises approach.
 - secure
 - traditional
 
 7. Question 7
    Zero Standing access is an example of **\*\***\_\_\_**\*\***.
 
-- A cloud-based pricing policy.
+- A Cloud-based pricing policy.
 - **A security policy of reducing access.**
 - An anti-virus software system.
 

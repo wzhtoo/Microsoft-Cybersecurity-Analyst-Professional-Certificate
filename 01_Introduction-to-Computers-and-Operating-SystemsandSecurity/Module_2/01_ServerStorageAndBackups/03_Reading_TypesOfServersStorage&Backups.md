@@ -30,7 +30,7 @@ Sam’s Scoops မှ ဆမ်သည် ဤလအတွက် ရေခဲမ�
 
 ## ဆာဗာများကို ပြန်လည်သုံးသပ်ခြင်း
 
-<img src = "https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/9Bl7cP0MQx6XN49imd7j4A_42bcc423f93c431ebfba73cd52ef6de1_image.png?expiry=1740355200000&hmac=klbH3cHqcMY7NjllqPdQza-nmcI8C1wY3_sAfkrJLaw" width="450" height="auto">
+<img src = "https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/9Bl7cP0MQx6XN49imd7j4A_42bcc423f93c431ebfba73cd52ef6de1_image.png?expiry=1740355200000&hmac=klbH3cHqcMY7NjllqPdQza-nmcI8C1wY3_sAfkrJLaw" width="450" height="auto">
 
 ကလိုင်းယင့်-ဆာဗာ မော်ဒယ်ကို ပြသထားသော ပုံစံတစ်ခု။
 
@@ -48,7 +48,7 @@ Sam’s Scoops မှ ဆမ်သည် ဤလအတွက် ရေခဲမ�
 
 # ဆာဗာအမျိုးအစားများ
 
-<img src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/l8SFnL0RTg6HwuENdsz6ng_1f2a6430d4ee405bbfe4e434e27396e1_image.png?expiry=1740355200000&hmac=leUCKKYrQ3AyP9dLO7XcU5ilPWF8z5iS157M8yCPMKM" width="450" height="auto">
+<img src="https://d3c33hcgiwev3.Cloudfront.net/imageAssetProxy.v1/l8SFnL0RTg6HwuENdsz6ng_1f2a6430d4ee405bbfe4e434e27396e1_image.png?expiry=1740355200000&hmac=leUCKKYrQ3AyP9dLO7XcU5ilPWF8z5iS157M8yCPMKM" width="450" height="auto">
 
 ယေဘုယျအားဖြင့်၊ ဆာဗာပေးသော ဝန်ဆောင်မှုသည် ၎င်း၏ အမည်ကို ဆုံးဖြတ်သည်။
 
